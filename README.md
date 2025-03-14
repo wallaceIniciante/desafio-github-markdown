@@ -1,6 +1,7 @@
 # Olá Seja Bem-Vindo!
 
 <p>Sou Wallace e sou formando de sistemas para internet e estou nessa jornada, buscando e enriquecendo os meus conhecimentos principalmente com a plataforma Dio.me  </p>
+<p>Sou do estado de Goiás e gosto muito da minha região</p>
 
 ## MEUS HOBBIES
 
